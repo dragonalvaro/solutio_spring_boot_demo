@@ -44,7 +44,7 @@ twitter:
       tokenSecret: #your key here
       spainWOEID: 23424950 #Make sure this is always de same value for Spain
 ```
-## Where are documentation
+## Where are the documentation?
 Once app is running, you can find in:
 
 ```bash
