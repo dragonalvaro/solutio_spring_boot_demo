@@ -1,0 +1,12 @@
+
+
+
+
+                                                                                         
+:: Port :: ${server.port}
+:: URL  :: http://localhost:${server.port}${server.servlet.contextPath}
+:: Docs :: http://localhost:${server.port}${server.servlet.contextPath}/swagger-ui.html
+
+
+
+
