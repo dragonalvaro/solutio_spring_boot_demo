@@ -1,0 +1,21 @@
+server:
+  servlet.contextPath: "/api"
+  port: 8080
+
+spring:
+   data.mongodb:
+         port: 27017
+         host: localhost
+         database: Twitter
+
+twitter:
+   app:
+       minFollowers: 1500
+       allowedLanguages: "es,it,fr" 
+          
+   config:
+      apiKey: ""
+      apiSecret: ""
+      token: ""
+      tokenSecret: ""
+      spainWOEID: 23424950 #Make sure this is always de same value for Spain
