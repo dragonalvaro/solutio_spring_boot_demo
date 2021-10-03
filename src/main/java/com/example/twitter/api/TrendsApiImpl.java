@@ -42,7 +42,7 @@ public class TrendsApiImpl implements TrendsApi {
 	}
 
 	
-	/** Use just un case WOEID it's no the same always **/
+	/** If you need a different location, use this method **/
 	private int getWOEIDForLocation(String locationString) {
 
 		try {
